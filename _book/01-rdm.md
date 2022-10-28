@@ -58,7 +58,7 @@ All data should be findable through a persistent identifier and have good data d
 
 A: Accessible
 
-You data is accessible if humans can access your data. This can mean your data is available in a repository or through a request system.
+Your data is accessible if humans can access your data. This can mean your data is available in a repository or through a request system.
 
 I: Interoperable
 
